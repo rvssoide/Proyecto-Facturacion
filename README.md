@@ -12,5 +12,5 @@ Este repositorio contiene el código utilizado para generar las tablas de datos 
 
 ## 🐍 Creación de Tablas en Python
 El script `create_tables_clientes.py` contiene el código utilizado para generar la tabla de datos de clientes.
-El script `create_tables_.py` contiene el código utilizado para generar la tabla de datos de facturas.
+El script `create_tables_facturacion.py` contiene el código utilizado para generar la tabla de datos de facturas.
 
